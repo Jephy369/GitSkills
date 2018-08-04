@@ -2,4 +2,6 @@ This is work txt, fixed in issue-1.
 Test for stash.
 This is Jephy_us and Jephy's modification.
 I guess Jephy_us delete one line.
+====Two of you want to test conflict. I merely merge those line!===
+This is dev's modification.
 New modification on patch.
