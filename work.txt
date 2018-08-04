@@ -1,2 +1,4 @@
 This is work txt, fixed in issue-1.
 Test for stash.
+This is Jephy_us and Jephy's modification.
+I guess Jephy_us delete one line.
