@@ -1,1 +1,2 @@
 This is work txt, fixed in issue-1.
+Test for stash.
