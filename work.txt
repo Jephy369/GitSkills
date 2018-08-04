@@ -1,1 +1,2 @@
 This is work txt.
+Test for stash.
